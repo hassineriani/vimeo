@@ -1,0 +1,7 @@
+{
+    "require": {
+        "vimeify/vimeo-api": "^4.0",
+        "ideologix/dlm-wp-updater": "^1.3",
+        "deliciousbrains/wp-background-processing": "^1.3"
+    }
+}
